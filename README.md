@@ -1,178 +1,148 @@
-tos_html = """
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Terms of Service – [Your App Name]</title>
-  <style>
-    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; line-height: 1.6; margin: 2rem auto; max-width: 820px; padding: 0 1rem; }
-    h1, h2, h3 { line-height: 1.25; }
-    .container { background: #fff; }
-    .muted { color: #555; }
-    .card { border: 1px solid #eee; border-radius: 12px; padding: 24px; box-shadow: 0 4px 10px rgba(0,0,0,0.04); }
-    a { color: #0a66c2; text-decoration: none; }
-    a:hover { text-decoration: underline; }
-    footer { margin-top: 3rem; font-size: 0.9rem; color: #666; }
-  </style>
-</head>
-<body>
-  <div class="container card">
-    <h1>Terms of Service</h1>
-    <p class="muted"><strong>Effective Date:</strong> [Insert Date]</p>
+Catch Cam Chronicles — Terms of Service
 
-    <h2>1. Introduction</h2>
-    <p>Welcome to <strong>[Your App Name]</strong> (“we,” “our,” or “us”). These Terms of Service (“Terms”) govern your access to and use of our application, website, and related services (collectively, the “Service”). By using the Service, you agree to these Terms and our Privacy Policy. If you do not agree, do not use the Service.</p>
+Effective date: August 13, 2025
+Contact: zach90715@gmail.com
 
-    <h2>2. Description of Service</h2>
-    <p>[Your App Name] provides tools to help you schedule and automate posting content to TikTok using TikTok’s official API. You are responsible for ensuring that your use of the Service complies with TikTok’s Developer Terms of Service and Community Guidelines.</p>
+Welcome to Catch Cam Chronicles (“Catch Cam Chronicles,” “we,” “us,” or “our”). These Terms of Service (“Terms”) govern your access to and use of our app and related services that help you manage social media accounts and publish videos (collectively, the “Service”). By creating an account, connecting your social media accounts, or using the Service, you agree to these Terms.
 
-    <h2>3. Eligibility</h2>
-    <p>You must be at least 18 years old or the age of majority in your jurisdiction to use the Service. By using the Service, you represent that you meet this requirement.</p>
+If you do not agree, do not use the Service.
 
-    <h2>4. User Accounts</h2>
-    <p>To use certain features, you must connect your TikTok account via TikTok’s official authentication. You are responsible for maintaining the security of your account credentials and for all activities under your account.</p>
+1) Who may use the Service
 
-    <h2>5. Acceptable Use</h2>
-    <ul>
-      <li>Do not post or automate content that violates TikTok’s Terms of Service, Community Guidelines, or any applicable law.</li>
-      <li>Do not attempt to reverse-engineer, bypass, or abuse the TikTok API.</li>
-      <li>Do not upload, post, or distribute unlawful, infringing, defamatory, or harmful content.</li>
-    </ul>
-    <p>We reserve the right to suspend or terminate accounts that violate these rules.</p>
+You must be at least 13 years old (or older if your country/platform requires it).
 
-    <h2>6. TikTok API Compliance</h2>
-    <p>Our Service integrates with TikTok’s API. By using the Service, you agree to also comply with TikTok’s
-      <a href="https://www.tiktok.com/legal/page/global/tik-tok-developer-terms-of-service/en" target="_blank" rel="noopener">Developer Terms of Service</a>
-      and other applicable TikTok policies.</p>
+You must have the authority to bind yourself or the company you represent.
 
-    <h2>7. Intellectual Property</h2>
-    <p>All rights, title, and interest in the Service (excluding your own content) are owned by us or our licensors. You may not copy, modify, distribute, or create derivative works from the Service without our written permission.</p>
+You must comply with these Terms and all applicable laws.
 
-    <h2>8. Termination</h2>
-    <p>We may suspend or terminate your access to the Service at any time if we believe you have violated these Terms or applicable laws. Upon termination, your right to use the Service will immediately cease.</p>
+2) Your account & security
 
-    <h2>9. Disclaimer of Warranties</h2>
-    <p>The Service is provided “AS IS” without warranties of any kind, whether express or implied. We do not guarantee that the Service will be error-free, secure, or uninterrupted.</p>
+You are responsible for the activity on your account and for keeping your login credentials safe.
 
-    <h2>10. Limitation of Liability</h2>
-    <p>To the maximum extent permitted by law, we will not be liable for any indirect, incidental, special, consequential, or punitive damages arising from or related to your use of the Service.</p>
+If you suspect unauthorized use, notify us at zach90715@gmail.com.
 
-    <h2>11. Governing Law</h2>
-    <p>These Terms will be governed by and interpreted in accordance with the laws of [Your Country/State], without regard to its conflict of laws principles.</p>
+3) Connecting third-party platforms
 
-    <h2>12. Changes to Terms</h2>
-    <p>We may update these Terms from time to time. Changes will be effective when posted, and your continued use of the Service constitutes acceptance of the updated Terms.</p>
+The Service may let you connect to third-party platforms (e.g., TikTok, YouTube, Instagram, Facebook, X/Twitter) to publish or schedule content.
 
-    <h2>13. Contact Us</h2>
-    <p>If you have any questions about these Terms, please contact us at:<br>
-      <strong>Email:</strong> [your@email.com]<br>
-      <strong>Address:</strong> [Your Business Address]</p>
+Your authorization. By connecting an account, you authorize us to access that account as your agent solely to perform the actions you request (e.g., upload videos, publish posts, pull analytics).
 
-    <footer>
-      <p>© [Year] [Your Company/Your Name]. All rights reserved.</p>
-    </footer>
-  </div>
-</body>
-</html>
-"""
+Third-party terms. Your use of each connected platform remains subject to that platform’s own terms, policies, and community guidelines. If there’s a conflict, the platform’s rules control for that platform.
 
-privacy_html = """
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Privacy Policy – [Your App Name]</title>
-  <style>
-    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; line-height: 1.6; margin: 2rem auto; max-width: 820px; padding: 0 1rem; }
-    h1, h2, h3 { line-height: 1.25; }
-    .container { background: #fff; }
-    .muted { color: #555; }
-    .card { border: 1px solid #eee; border-radius: 12px; padding: 24px; box-shadow: 0 4px 10px rgba(0,0,0,0.04); }
-    a { color: #0a66c2; text-decoration: none; }
-    a:hover { text-decoration: underline; }
-    footer { margin-top: 3rem; font-size: 0.9rem; color: #666; }
-  </style>
-</head>
-<body>
-  <div class="container card">
-    <h1>Privacy Policy</h1>
-    <p class="muted"><strong>Effective Date:</strong> [Insert Date]</p>
+Revoking access. You can disconnect a platform at any time from your settings or through the platform’s own security settings.
 
-    <h2>1. Introduction</h2>
-    <p><strong>[Your App Name]</strong> (“we,” “our,” or “us”) values your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our application, website, and related services (“Service”). By using the Service, you agree to this Privacy Policy.</p>
+Availability. Integrations and features may change, break, or be discontinued if a platform updates its APIs or policies.
 
-    <h2>2. Information We Collect</h2>
-    <h3>a. Information You Provide</h3>
-    <ul>
-      <li>Account details when connecting your TikTok account through TikTok’s official authentication system (OAuth).</li>
-      <li>Contact details you provide for account creation, support, or inquiries.</li>
-    </ul>
-    <h3>b. Information Collected Automatically</h3>
-    <ul>
-      <li>Log data such as IP address, browser type, and usage patterns.</li>
-      <li>API usage data from TikTok to enable posting and scheduling features.</li>
-    </ul>
-    <h3>c. Third-Party Information</h3>
-    <ul>
-      <li>Data obtained from TikTok via its official API, in accordance with TikTok’s Developer Terms of Service.</li>
-    </ul>
+4) Content and licenses
 
-    <h2>3. How We Use Your Information</h2>
-    <ul>
-      <li>Provide and operate the Service.</li>
-      <li>Authenticate and connect your TikTok account.</li>
-      <li>Schedule and automate TikTok posts.</li>
-      <li>Respond to customer support requests.</li>
-      <li>Improve and customize our Service.</li>
-      <li>Comply with legal obligations.</li>
-    </ul>
+You own your content. You retain all rights to videos, images, captions, and other materials you upload or schedule via the Service (“User Content”).
 
-    <h2>4. How We Share Your Information</h2>
-    <p>We do <strong>not</strong> sell your personal information. We may share your data only with:</p>
-    <ul>
-      <li><strong>TikTok</strong> (to perform posting and scheduling actions via the API).</li>
-      <li><strong>Service providers</strong> who help us operate the Service (e.g., hosting, analytics).</li>
-      <li><strong>Legal authorities</strong> if required by law.</li>
-    </ul>
+License to operate the Service. You grant us a worldwide, non-exclusive, royalty-free license to host, store, process, format, transcode, and transmit your User Content solely to provide and improve the Service (e.g., queue a post, generate thumbnails, show analytics, troubleshoot issues).
 
-    <h2>5. Data Security</h2>
-    <p>We implement industry-standard security measures to protect your information. However, no method of transmission or storage is 100% secure, and we cannot guarantee absolute security.</p>
+Your responsibilities. You are solely responsible for your User Content and for ensuring you have all necessary rights, permissions, and consents (including music, footage, and likeness rights) to post it.
 
-    <h2>6. Data Retention</h2>
-    <p>We retain your information for as long as necessary to provide the Service or comply with legal obligations. You may request deletion of your account and associated data at any time by contacting us.</p>
+Prohibited content. Do not upload or post anything illegal; infringing; deceptive; spammy; hateful; harassing; exploitative; or that violates others’ privacy, publicity, or platform rules.
 
-    <h2>7. Your Rights</h2>
-    <p>Depending on your location, you may have the right to access, update, delete, or restrict processing of your information, and request a copy of your data. To exercise these rights, contact us at <strong>[your@email.com]</strong>.</p>
+5) Acceptable use
 
-    <h2>8. Third-Party Services</h2>
-    <p>Our Service uses TikTok’s API and is subject to TikTok’s Privacy Policy and Terms of Service. We are not responsible for the privacy practices of third parties.</p>
+You agree not to:
 
-    <h2>9. Changes to This Policy</h2>
-    <p>We may update this Privacy Policy from time to time. The updated version will be posted with a revised “Effective Date.”</p>
+Use the Service to send spam or to artificially inflate engagement.
 
-    <h2>10. Contact Us</h2>
-    <p>If you have any questions about this Privacy Policy, contact us at:<br>
-      <strong>Email:</strong> [your@email.com]<br>
-      <strong>Address:</strong> [Your Business Address]</p>
+Attempt to scrape, reverse-engineer, or interfere with the Service or our systems.
 
-    <footer>
-      <p>© [Year] [Your Company/Your Name]. All rights reserved.</p>
-    </footer>
-  </div>
-</body>
-</html>
-"""
+Probe or bypass security; use bots not permitted by platforms; or exceed platform rate limits.
 
-# Save files
-tos_path = "/mnt/data/terms.html"
-privacy_path = "/mnt/data/privacy.html"
+Misrepresent your identity or impersonate others without consent.
 
-with open(tos_path, "w", encoding="utf-8") as f:
-    f.write(tos_html.strip())
+Use the Service in any manner that violates laws, regulations, or platform policies.
 
-with open(privacy_path, "w", encoding="utf-8") as f:
-    f.write(privacy_html.strip())
+We may suspend or terminate accounts that violate these Terms.
 
-print(f"Created: {tos_path}\nCreated: {privacy_path}")
+6) Scheduled posting, automations, and limits
+
+We try to publish at your scheduled time, but delivery can be affected by platform outages, API limits, file sizes, or network issues.
+
+We may set reasonable usage, size, or rate limits to protect the Service and platform compliance.
+
+7) Privacy & data
+
+What we handle. To operate the Service, we may process account information, connected-platform identifiers, OAuth tokens/permissions, scheduling data, analytics, logs, and your User Content.
+
+How we use it. We use data to operate, secure, and improve the Service; provide support; and comply with law. We do not sell your personal information.
+
+Security. We implement reasonable administrative, technical, and physical safeguards appropriate to our size and the nature of the Service, but no method is 100% secure.
+
+Data retention. We keep data as needed to provide the Service and for legitimate business or legal purposes. If you disconnect a platform or delete your account, we will remove or de-identify associated tokens and data within a reasonable period, except where we must retain records by law or for legitimate interests (e.g., fraud prevention, accounting).
+
+Your choices. You can request deletion of your account or ask questions by emailing zach90715@gmail.com.
+
+(For more details, see our Privacy Notice if provided separately.)
+
+8) Fees and refunds (if applicable)
+
+Some features may be free; others may require payment or a subscription.
+
+Prices, taxes, billing cycles, and refund rules (if any) will be shown at checkout or in your plan details.
+
+We may change prices or plans with notice for the next billing period.
+
+9) Intellectual property
+
+The Service, including our software, designs, trademarks, logos, and content (excluding your User Content), is owned by Catch Cam Chronicles or its licensors and is protected by law.
+
+You may not copy, modify, distribute, sell, or lease any part of the Service unless we give you written permission.
+
+10) Feedback
+
+If you send ideas or suggestions, you grant us a perpetual, worldwide, irrevocable, royalty-free license to use them without restriction or compensation.
+
+11) Beta and experimental features
+
+We may offer beta features that are provided “as is,” may change at any time, and may be withdrawn without notice.
+
+12) Disclaimers
+
+THE SERVICE IS PROVIDED “AS IS” AND “AS AVAILABLE.” TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, AND ANY WARRANTIES ARISING OUT OF COURSE OF DEALING OR USAGE.
+
+13) Limitation of liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, CATCH CAM CHRONICLES AND ITS OWNERS, OFFICERS, EMPLOYEES, AND AGENTS WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES; LOST PROFITS; LOST REVENUE; LOSS OF DATA; OR BUSINESS INTERRUPTION, EVEN IF ADVISED OF THE POSSIBILITY. OUR TOTAL LIABILITY FOR ANY CLAIM RELATING TO THE SERVICE WILL NOT EXCEED THE GREATER OF (A) THE AMOUNT YOU PAID US FOR THE SERVICE IN THE 12 MONTHS BEFORE THE EVENT GIVING RISE TO THE CLAIM OR (B) USD $100.
+
+Some jurisdictions do not allow certain limitations; in those cases, the limitations apply to the fullest extent permitted.
+
+14) Indemnification
+
+You will indemnify and hold harmless Catch Cam Chronicles from and against any claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys’ fees) arising out of or related to: (a) your User Content; (b) your use of the Service; (c) your violation of these Terms or any law; or (d) your violation of any third-party or platform rights.
+
+15) Termination
+
+You may stop using the Service at any time. We may suspend or terminate your access immediately if we believe you violated these Terms, posed a security risk, or for other lawful reasons. Upon termination, licenses you granted continue as necessary for us to wind down or comply with law, and sections that by their nature should survive (e.g., ownership, disclaimers, limitations of liability, indemnity) will survive.
+
+16) Changes to the Service or these Terms
+
+We may modify the Service or these Terms from time to time. If a change is material, we will provide reasonable notice (e.g., by email or in-app). Changes apply going forward from their effective date. Your continued use after changes take effect means you accept the updated Terms.
+
+17) Governing law; venue
+
+These Terms are governed by the laws of the State of Florida, U.S.A., without regard to its conflict-of-laws rules. You and we agree to submit to the exclusive jurisdiction and venue of the state and federal courts located in Florida for any dispute not subject to small-claims court or another agreed process.
+
+18) Export and sanctions
+
+You represent that you are not located in, and will not use the Service from, any country or region embargoed by the U.S., and that you are not on any U.S. government restricted-party list.
+
+19) Communications
+
+By using the Service, you agree we may send you service, transactional, and security emails. You can opt out of non-essential marketing emails at any time.
+
+20) DMCA / copyright complaints
+
+If you believe content posted through the Service infringes your copyright, contact: zach90715@gmail.com with: (a) your contact info; (b) identification of the copyrighted work; (c) the allegedly infringing material; (d) a statement under penalty of perjury that you have a good-faith belief the use is unauthorized; and (e) your signature. We may remove or disable access to alleged infringing content and, where applicable, terminate repeat infringers.
+
+21) Entire agreement
+
+These Terms (and any referenced policies or plan details) are the entire agreement between you and us regarding the Service and supersede prior or contemporaneous agreements on the subject matter.
+
+22) Contact
+
+Questions? Email zach90715@gmail.com.

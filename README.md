@@ -147,3 +147,142 @@ These Terms (and any referenced policies or plan details) are the entire agreeme
 
 Questions? Email zach90715@gmail.com.
 tiktok-developers-site-verification=mVmiSzB2bSRpaehkPhYLzdrUFFtqe1hq
+Catch Cam Chronicles — Privacy Policy
+
+Effective date: August 13, 2025
+Contact: zach90715@gmail.com
+
+This Privacy Policy describes how Catch Cam Chronicles (“Catch Cam Chronicles,” “we,” “us,” or “our”) collects, uses, and shares information when you use our app and related services that help you manage social media accounts and publish videos (the “Service”).
+
+If you do not agree with this Policy, please do not use the Service.
+
+1) Information we collect
+a) Information you provide
+
+Account & contact info: name, email address, profile details, and settings.
+
+Content: videos, images, captions, metadata, comments, and scheduling details you upload or create in the Service.
+
+Support messages: questions, bug reports, and feedback you send us.
+
+b) Information from connected platforms (when you link them)
+
+When you connect accounts like TikTok, YouTube, Instagram, Facebook, or X/Twitter, we receive information permitted by the platform and the scopes you approve, such as:
+
+Identifiers & tokens: platform user ID, channel/page ID, OAuth tokens/permissions (not your password).
+
+Publishing & analytics data: video titles, thumbnails, comments/mentions, performance metrics, audience/engagement stats, and posting status.
+
+Content access: media files and drafts needed to upload, schedule, or manage posts.
+
+You can disconnect a platform at any time via our settings or the platform’s own security settings.
+
+c) Automatically collected information
+
+Usage & device data: app interactions, timestamps, IP address, device type, operating system, app version, crash logs, performance metrics.
+
+Cookies & similar tech (on our site): used for sign-in, preferences, and analytics.
+
+We do not intentionally collect sensitive categories of data (e.g., health, precise geolocation) unless you explicitly provide them in your content.
+
+2) How we use information
+
+We use information to:
+
+Provide the Service: authenticate you; connect to third-party platforms; upload, schedule, and manage posts; generate thumbnails; and show analytics.
+
+Maintain & improve: monitor performance, fix bugs, develop new features, and ensure security.
+
+Support & communications: respond to inquiries; send service, transactional, and security notices.
+
+Legal & compliance: prevent abuse, enforce our Terms, and comply with laws and platform policies.
+
+Marketing (optional): send product updates or tips—you can opt out of non-essential marketing at any time.
+
+Legal bases (EEA/UK): contract (to provide the Service), legitimate interests (e.g., security, improvement), consent (when required), and legal obligations.
+
+3) How we share information
+
+We share information only as needed to operate the Service or as required by law:
+
+Service providers (processors): cloud hosting, storage/transcoding, analytics, email delivery, customer support, logging/monitoring. These providers access data only to perform services for us and must protect it.
+
+Connected platforms: when you authorize posting or analytics access, we transmit your content and necessary metadata to those platforms via their APIs.
+
+Business transfers: in a merger, acquisition, financing, or asset sale, data may be transferred subject to this Policy.
+
+Legal and safety: to comply with legal requests, protect rights, prevent fraud or abuse, and ensure safety.
+
+We do not sell your personal information. We also do not share your personal information for cross-context behavioral advertising as defined by California law.
+
+4) Data retention
+
+We keep information only as long as needed to provide the Service and for legitimate business or legal purposes. Typical periods:
+
+Account data: retained while your account is active; deleted or anonymized within a reasonable period after you close your account.
+
+OAuth tokens: revoked or deleted promptly when you disconnect a platform or delete your account (typically within 30 days).
+
+Server logs/diagnostics: typically retained 30–90 days.
+
+Backups: persist for a limited, rolling window (e.g., 30–60 days).
+
+Actual timelines may vary based on legal, security, or operational needs.
+
+5) Security
+
+We use reasonable administrative, technical, and physical safeguards appropriate to our size and the nature of the Service (e.g., encryption in transit, restricted token storage, access controls). No method of transmission or storage is 100% secure.
+
+6) Your choices & rights
+
+Access, update, delete: you can request access to, correction of, or deletion of your personal information.
+
+Disconnect platforms: remove a platform at any time via settings or the platform’s security page.
+
+Marketing opt-out: unsubscribe from non-essential emails via the link in the message or by contacting us.
+
+Permissions: most mobile platforms allow you to control device-level permissions (e.g., camera, notifications).
+
+EEA/UK users: you may also have rights to object or restrict processing, and to data portability. You can lodge a complaint with your local data protection authority.
+
+California residents (CPRA): you have the right to know, correct, and delete personal information; to opt out of “sales” or “sharing” (we do not sell/share); and to limit use of sensitive information (we do not use sensitive information for purposes requiring that right). We do not discriminate for exercising privacy rights.
+
+To exercise any right, email zach90715@gmail.com. We may verify your request and may need information to confirm your identity.
+
+7) Children’s privacy
+
+The Service is not directed to children under 13, and we do not knowingly collect personal information from them. If we learn we have collected such information, we will delete it.
+
+8) International data transfers
+
+If you are outside the United States, your information may be processed in countries with different data protection laws. Where required, we rely on appropriate safeguards (e.g., Standard Contractual Clauses) for transfers from the EEA/UK.
+
+9) Third-party services and platforms
+
+Your use of each connected platform remains subject to that platform’s own terms and privacy policies. We are not responsible for third-party practices. Features and integrations may change if a platform updates its APIs or policies.
+
+10) Do Not Track
+
+Some browsers send “Do Not Track” signals. We currently do not respond to such signals.
+
+11) Changes to this Policy
+
+We may update this Policy from time to time. If changes are material, we will provide reasonable notice (e.g., by email or in-app). The “Effective date” above shows when this Policy last changed. Your continued use of the Service after an update means you accept the changes.
+
+12) Contact us
+
+Questions or requests about privacy? Email zach90715@gmail.com.
+
+California “Notice at Collection” (summary)
+
+Categories collected: identifiers (e.g., email, platform IDs), internet/activity data (usage logs), commercial info (plan, billing if applicable), audio/visual content you upload, and inferences for service improvement.
+
+Sources: you; your connected platforms; your device/browser.
+
+Purposes: to provide and secure the Service; analytics; support; compliance.
+
+Retention: as outlined above.
+
+Sale/Sharing: we do not sell or share personal information for cross-context behavioral advertising.
+
+Sensitive info: not used for inferring characteristics or for purposes requiring a “limit use” right.
